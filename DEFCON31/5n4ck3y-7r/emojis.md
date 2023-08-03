@@ -103,12 +103,83 @@ List of Emojis displayed above:
 ![hospital](https://github.com/securepadawan/ANDnXOR/assets/66234098/21eb0d06-7829-4621-8992-cee2a812f31f)
 </details>
 
+<details>
+<summary>💌 Love Letter - Shows Credits</summary>
 
+![credits](https://github.com/securepadawan/ANDnXOR/assets/66234098/edd7cb1f-2734-47f3-91c1-aa8655b9760a)
+</details>
 
+<details>
+<summary>💩 Pile of Poo - Jumping Game</summary>
 
+![poo](https://github.com/securepadawan/ANDnXOR/assets/66234098/7262dc25-2347-4ca6-91c3-d603cd41f28d)
+</details>
 
+<details>
+<summary>💻 Laptop - Reboots</summary>
 
+![laptop](https://github.com/securepadawan/ANDnXOR/assets/66234098/59ed01ee-fccb-4dea-9b58-fe3f15b390b4)
+</details>
 
+<details>
+<summary>📜 Scroll - Version</summary>
+
+![scroll](https://github.com/securepadawan/ANDnXOR/assets/66234098/6eb98d1d-50cb-4fac-bc29-ca66ff683bda)
+</details>
+
+<details>
+<summary>🔪 Kitchen Knife - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![knife](https://github.com/securepadawan/ANDnXOR/assets/66234098/9d5d9a3a-8697-43c7-9688-b716e0c5cd7c)
+</details>
+
+<details>
+<summary>😋 Face Savoring Food - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![face](https://github.com/securepadawan/ANDnXOR/assets/66234098/53ded0f7-bb88-495c-a7af-4dc36ccafa6f)
+</details>
+
+<details>
+<summary>🙀Weary Cat - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![cat](https://github.com/securepadawan/ANDnXOR/assets/66234098/cf9a0054-21d3-457a-941d-1f8596411fdd)
+</details>
+
+<details>
+<summary>🚩Triangular Flag- Shows CTFD logo</summary>
+
+![flag](https://github.com/securepadawan/ANDnXOR/assets/66234098/4ff219a4-5fd3-4144-bcc4-e3e89140e668)
+</details>
+
+<details>
+<summary>🤖 Robot - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![robot](https://github.com/securepadawan/ANDnXOR/assets/66234098/bc81dccb-5715-47e6-95b2-7416ff4e2370)
+</details>
+
+<details>
+<summary>🥃 Tumbler Glass - Shows w00w00</summary>
+
+![w00w00](https://github.com/securepadawan/ANDnXOR/assets/66234098/07ef2eb4-6be6-4b3a-a791-95535c7f303f)
+</details>
+
+<details>
+<summary>🥓 Bacon - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![bacon](https://github.com/securepadawan/ANDnXOR/assets/66234098/d8e8ff90-b984-4af8-9eed-7e2595374335)
+</details>
+
+<details>
+<summary>🥔 Potato - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![potato](https://github.com/securepadawan/ANDnXOR/assets/66234098/bd57546a-ec38-4aef-b795-f1643947dcb0)
+</details>
+
+<details>
+<summary>🥕 Carrot - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![carrot](https://github.com/securepadawan/ANDnXOR/assets/66234098/86c4d256-9e74-43ac-8dee-fe5facb20765)
+</details>
 
 
 
