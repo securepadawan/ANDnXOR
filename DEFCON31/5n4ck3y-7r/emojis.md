@@ -181,17 +181,65 @@ List of Emojis displayed above:
 ![carrot](https://github.com/securepadawan/ANDnXOR/assets/66234098/86c4d256-9e74-43ac-8dee-fe5facb20765)
 </details>
 
+<details>
+<summary>🥙 Stuffed Flatbread - Badge Challenge (not yet activated as of 8/2)</summary>
 
+![flatbread](https://github.com/securepadawan/ANDnXOR/assets/66234098/29c367b2-e261-4e31-8878-8816d8c3c239)
+</details>
 
+<details>
+<summary>🥜 Peanuts - Allows you to display images (example: 🥜 defcon_31)</summary>
 
+![nuts](https://github.com/securepadawan/ANDnXOR/assets/66234098/515f7a0f-c2e3-4717-b734-105dfd732a35)
+</details>
 
+<details>
+<summary>🥣 Bowl with Spoon - Badge Challenge (not yet activated as of 8/2)</summary>
 
+![bowl_spoon](https://github.com/securepadawan/ANDnXOR/assets/66234098/7bd14b0f-2430-414c-915f-7bad9cd0f483)
+</details>
 
+<details>
+<summary>🥧 Pie - Badge Challenge (not yet activated as of 8/2)</summary>
 
+![pie](https://github.com/securepadawan/ANDnXOR/assets/66234098/7449a491-6d58-43cb-9984-fa7ef48c7bf2)
+</details>
 
+<details>
+<summary>🥩 Cut of Meat - Badge Challenge (not yet activated as of 8/2)</summary>
 
+![cut_meat](https://github.com/securepadawan/ANDnXOR/assets/66234098/787d2f66-72c7-4c2a-95cc-664fac601d49)
+</details>
 
+<details>
+<summary>🦆 Duck - Used for Ducky Scripts</summary>
 
+![ducky](https://github.com/securepadawan/ANDnXOR/assets/66234098/d35f24b4-1b82-4115-b6da-12a0ae31b2ce)
+</details>
+
+<details>
+<summary>🧀 Cheese Wedge - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![cheese](https://github.com/securepadawan/ANDnXOR/assets/66234098/24eb3fb4-a476-4d69-8750-0a5814cd017a)
+</details>
+
+<details>
+<summary>🧁 Cupcake - Badge Challenge (not yet activated as of 8/2)</summary>
+
+![cupcake](https://github.com/securepadawan/ANDnXOR/assets/66234098/dc40329a-0f1a-4eae-be80-067054f325d0)
+</details>
+
+<details>
+<summary>🧠 Brain - Free Memory status</summary>
+
+![brain](https://github.com/securepadawan/ANDnXOR/assets/66234098/87ad0af1-101d-4e4a-9d75-e17b028b8f9d)
+</details>
+
+<details>
+<summary>🧮 Abacus - Possible Status? (as of 8/2)</summary>
+
+  ![abacus](https://github.com/securepadawan/ANDnXOR/assets/66234098/54156379-2284-466d-98cd-0e97bc5213c6)
+</details>
 
 
 
